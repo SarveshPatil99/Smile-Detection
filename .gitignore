@@ -4,3 +4,5 @@ no_models
 training_data
 *.dat
 *.ipynb
+*_smile_detected.mp4
+
