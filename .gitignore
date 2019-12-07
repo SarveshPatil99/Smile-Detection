@@ -1,0 +1,6 @@
+.ipynb_checkpoints
+images
+no_models
+training_data
+*.dat
+*.ipynb
