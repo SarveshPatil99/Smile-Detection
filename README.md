@@ -8,4 +8,4 @@ Download the above bz2 file, unarchive and place in the main directory.
 
 ## Execution
 
-Type 'python smile_detection.py' in terminal of choice.
+Type `python smile_detection.py` in terminal of choice.
